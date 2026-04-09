@@ -1,39 +1,18 @@
 body{
-    background-color:black;
-    color:white;
-    font-family:Arial;
-    margin:40px;
-}
-
-h1{
-    position:absolute;
-    top:20px;
-    left:30px;
+font-family: Arial;
+margin-left: 30px;
+background-color: #111;
+color: white;
 }
 
 .perfil{
-    width:320px;
-    background:#111;
-    border:2px solid red;
-    border-radius:10px;
-    padding:20px;
-    position:absolute;
-    top:100px;
-    left:30px;
+width: 350px;
+border: 2px solid red;
+padding: 15px;
+border-radius: 10px;
 }
 
-
-img{
-    width:100%;
-    border-radius:8px;
-    margin-bottom:10px;
-}
-
-
-ul{
-    padding-left:20px;
-}
-
-li{
-    margin:5px 0;
+.perfil img{
+width: 100%;
+border-radius: 8px;
 }
